@@ -6,7 +6,6 @@
 //     The maximum number of consecutive 1s is 3.
 
 // ----------------------------
-
 // My Solution
 
 var findMaxConsecutiveOnes = function (nums) {
@@ -27,6 +26,7 @@ var findMaxConsecutiveOnes = function (nums) {
 };
 
 console.log(findMaxConsecutiveOnes([1, 1, 0, 1, 1, 1]));
+
 // ----------------------------
 // Optimized Solution
 
